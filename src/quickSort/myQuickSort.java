@@ -1,3 +1,4 @@
+package quickSort;
 
 public class myQuickSort {
     public static void main(String[] args) {
