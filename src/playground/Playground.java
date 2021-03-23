@@ -1,3 +1,7 @@
+package playground;
+
+import java.util.ArrayList;
+
 //package playground;
 //
 //import javax.swing.text.html.parser.Parser;
@@ -12,21 +16,12 @@
 //    }
 //}
 //
-//class Solution {
-//
-//    public static void main(String[] args) {
-//        Parser parser = new Parser();
-//
-//        Scanner in = new Scanner(System.in);
-//        ArrayList<String> s = new ArrayList<String>(3);
-//        s.add("{}()");
-//        s.add("({()})");
-//        s.add("{}(");
-//        while (in.hasNext()) {
-//            System.out.println(s.isBalanced());
-//        }
-//
-//        in.close();
-//    }
-//}
-//
+class Solution {
+    int x = 100;
+    int y = 0;
+    private static int divide(int x, int y) {
+        return x/y;
+
+    }
+}
+
